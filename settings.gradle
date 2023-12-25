@@ -1,0 +1,5 @@
+rootProject.name = 'ms-faturamento'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
